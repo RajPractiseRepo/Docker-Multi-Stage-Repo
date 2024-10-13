@@ -29,7 +29,7 @@
   ################################################################################################
 
 
-  ## Docker image using Multi-stage verse as base image(177 MB):
+  ## Docker image using Multi-stage serve (177 MB):
 
   ![docker-multistage-serve-177mb](https://github.com/user-attachments/assets/483bc211-19cb-44e8-adf9-3b225dded60d)
 
