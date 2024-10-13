@@ -1,3 +1,6 @@
+# Reducing Docker Image Size by 96% for a Portfolio application from 1.55GB to 58.7MB using multi-stages build.
+ 
+ 
  ## Docker multistage build Architecture Diagram
 
  ![gifgit](https://github.com/user-attachments/assets/4faa8704-6cfc-48b4-866b-897006dfdfb2)
